@@ -1,0 +1,5 @@
+== sysrepo_plugin_ietf_ifaces ==
+
+Simple sysrepo plugin for ietf-interfaces.yang module.
+
+Depends: >= sysrepo 1.0, libnel (custom netlink library)
